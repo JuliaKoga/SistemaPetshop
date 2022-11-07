@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f220b4e1-d491-40e4-bba3-10190a2f87f5" name="Changes" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cachorro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CadastroCao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dono.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dono.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Endereco.java" afterDir="false" />
-    </list>
+    <list default="true" id="f220b4e1-d491-40e4-bba3-10190a2f87f5" name="Changes" comment="Nova classe teste e classe CadastroCao arrumada." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +50,7 @@
       <workItem from="1667590618297" duration="13000" />
       <workItem from="1667590652046" duration="412000" />
       <workItem from="1667601294815" duration="3575000" />
+      <workItem from="1667862971532" duration="308000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1667590910269</created>
@@ -64,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667590910269</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Nova classe teste e classe CadastroCao arrumada.">
+      <created>1667863181609</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667863181609</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +85,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Nova classe teste e classe CadastroCao arrumada." />
+    <option name="LAST_COMMIT_MESSAGE" value="Nova classe teste e classe CadastroCao arrumada." />
   </component>
 </project>
