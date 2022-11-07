@@ -3,7 +3,7 @@ public class Dono {
     private String nome;
     private String email;
     private String cpf;
-    private static int id = 1;
+    private int id;
     private Endereco endereco;
 
     public String getNome() {
@@ -24,12 +24,14 @@ public class Dono {
     public void setCpf(String cpf) {
         this.cpf = cpf;
     }
-    public static int getId() {
+    public int getId() {
         return id;
     }
-    public static void setId(){
-        id++;
+
+    public void setId(int id) {
+        this.id = id;
     }
+
     public Endereco getEndereco() {
         return endereco;
     }

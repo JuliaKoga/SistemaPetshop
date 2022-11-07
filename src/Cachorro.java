@@ -3,7 +3,7 @@ public class Cachorro {
     private String nome;
     private String raca;
     private int idade;
-    private static int id = 1;
+    private int id;
     private Dono dono;
 
 
@@ -25,11 +25,12 @@ public class Cachorro {
     public void setIdade(int idade) {
         this.idade = idade;
     }
-    public static int getId() {
+    public int getId() {
         return id;
     }
-    public static void setId() {
-        id++;
+
+    public void setId(int id) {
+        this.id = id;
     }
 
     public Dono getDono() {

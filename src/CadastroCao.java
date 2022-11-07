@@ -1,10 +1,10 @@
 public class CadastroCao {
 
-    private static Cachorro[] cachorrosCadastrados = new Cachorro[10];
+    private Cachorro[] cachorrosCadastrados = new Cachorro[10];
 
     private static int i = 0;
 
-    public static void cadastrar (Cachorro cachorro){
+    public void cadastrar (Cachorro cachorro){
         if(cachorro!=null){
             cachorrosCadastrados[i] = cachorro;
             i++;
@@ -13,7 +13,7 @@ public class CadastroCao {
         }
     }
 
-    public static void mostrar (){
+    public void mostrar (){
         for(Cachorro cachorros : cachorrosCadastrados ) {
             System.out.println(cachorros);
         }
