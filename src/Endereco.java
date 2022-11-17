@@ -5,7 +5,7 @@ public class Endereco {
     private String cep;
     private String bairro;
     private String estado;
-    private int id;
+    private int id = 0;
 
     public String getRua() {
         return rua;

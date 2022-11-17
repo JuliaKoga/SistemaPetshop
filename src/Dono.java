@@ -3,7 +3,7 @@ public class Dono {
     private String nome;
     private String email;
     private String cpf;
-    private int id;
+    private int id = 0;
     private Endereco endereco;
 
     public String getNome() {
@@ -43,7 +43,7 @@ public class Dono {
         this.nome = nome;
         this.email = email;
         this.cpf = cpf;
-        this.endereco = getEndereco();
+        this.endereco = endereco;
         this.id++;
     }
 

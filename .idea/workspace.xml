@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f220b4e1-d491-40e4-bba3-10190a2f87f5" name="Changes" comment="Nova classe teste e classe CadastroCao arrumada." />
+    <list default="true" id="f220b4e1-d491-40e4-bba3-10190a2f87f5" name="Changes" comment="setando IDs pela classe teste">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d8d1e0f220ab8573f778901861305cded47a7f04" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cachorro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CadastroCao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnimalRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dono.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dono.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Endereco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Teste.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -21,19 +34,22 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2H61EqY6YO8LPjt97xpfLw7rfUD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
@@ -50,7 +66,10 @@
       <workItem from="1667590618297" duration="13000" />
       <workItem from="1667590652046" duration="412000" />
       <workItem from="1667601294815" duration="3575000" />
-      <workItem from="1667862971532" duration="308000" />
+      <workItem from="1667862971532" duration="1206000" />
+      <workItem from="1668032363561" duration="1196000" />
+      <workItem from="1668642682213" duration="138000" />
+      <workItem from="1668642881219" duration="6645000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1667590910269</created>
@@ -66,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667863181609</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="setando IDs pela classe teste">
+      <created>1667863552438</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667863552438</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +112,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="Nova classe teste e classe CadastroCao arrumada." />
-    <option name="LAST_COMMIT_MESSAGE" value="Nova classe teste e classe CadastroCao arrumada." />
+    <MESSAGE value="setando IDs pela classe teste" />
+    <option name="LAST_COMMIT_MESSAGE" value="setando IDs pela classe teste" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
